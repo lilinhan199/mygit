@@ -1,0 +1,35 @@
+{
+    "squadName" : "X-Man",
+    "homeTown" : "Los Angeles",
+    "formed" : 2006,
+    "secretBase" : "X-School",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "Erik Lensherr",
+        "age" : 50,
+        "secretIdentity" : "Magneto",
+        "powers" : [
+          "control magnetic field",
+        ]
+      },
+      {
+        "name" : "Charles Francis Xavier",
+        "age" : 50,
+        "secretIdentity" : "professor X",
+        "powers" : [
+          "mind control",
+          "telepathy",
+        ]
+      },
+      {
+        "name" : "LoganHowlett",
+        "age" : 200,
+        "secretIdentity" : "Wolverine",
+        "powers" : [
+          "延缓衰老",
+          "极强的愈合能力",
+        ]
+      }
+    ]
+  }
